@@ -1,6 +1,6 @@
-#Deploy EC2 Instance with Terraform & Configure Nginx using Ansible
+# Deploy EC2 Instance with Terraform & Configure Nginx using Ansible
 
-##Overview
+## Overview
 
 #### This project demonstrates the combined use of Terraform and Ansible to automate infrastructure provisioning and configuration.
 
@@ -10,7 +10,7 @@
 
 ### Prerequisites
 
-####Ensure you have the following installed:
+#### Ensure you have the following installed:
 
 - Terraform
 
